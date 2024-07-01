@@ -1,2 +1,3 @@
-# studio84pottery.github.io
-public website
+# studio84pottery.com
+
+Instagram: @studio84pottery
