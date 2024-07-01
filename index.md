@@ -5,7 +5,12 @@ image: /assets/images/IMG_4996_lg.png
 
 ---
 
-<h1>{{ site.title }}</h1>
+<div id="topline">
+  <a href="/">
+    <img src="/assets/images/studio84_transparent.png" />
+  </a>
+  <h1>{{ site.title }}</h1>
+</div>
 
 ![featured art](/assets/images/IMG_4996_lg.png)
 
@@ -17,7 +22,7 @@ Follow me on Instagram [@studio84pottery](https://www.instagram.com/studio84pott
 
 ### Harpswell Open Studio Tour
 
-<img src="/assets/images/artist.jpg" width="100">
+<img src="/assets/images/artist.jpg" width="100" />
 
 Meet me and see my work during the Harpswell Open Studio Tour July 13-14th 10am-4pm
 See [@harpswellopenstudiotour](https://www.instagram.com/harpswellopenstudiotour) for artist listing and map

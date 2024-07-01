@@ -9,6 +9,21 @@
   }
 }
 
+#topline {
+  padding-bottom: 30px;
+
+  img {
+    float: left;
+    width: 50px;
+  }
+
+  h1 {
+    position: relative;
+    top: 12px;
+    left: 20px;
+  }
+}
+
 section {
   margin-top: 0px;
 }
