@@ -1,6 +1,7 @@
 ---
 
 layout: default
+image: /assets/images/IMG_4996_lg.png
 
 ---
 

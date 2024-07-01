@@ -21,6 +21,7 @@
 title: Studio84 Pottery
 email: hello@studio84pottery.com
 tagline: Unique ceramics from the Maine coast
+description: Unique ceramics from the Maine coast
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://studio84pottery.com" # the base hostname & protocol for your site, e.g. http://example.com
