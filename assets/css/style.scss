@@ -1,0 +1,20 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#header {
+  nav {
+    background: transparent;
+  }
+}
+
+section {
+  margin-top: 0px;
+}
+
+@media print, screen and (max-width: 480px) {
+  nav {
+    display: none;
+  }
+}
