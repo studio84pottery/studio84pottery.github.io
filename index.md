@@ -27,4 +27,4 @@ Follow me on Instagram [@studio84pottery](https://www.instagram.com/studio84pott
 Meet me and see my work during the Harpswell Open Studio Tour July 13-14th 10am-4pm.
 See [@harpswellopenstudiotour](https://www.instagram.com/harpswellopenstudiotour) for artist listing and map.
 
-Studio84 will feature pottery by Annie Gatewood ([@studio84pottery](https://www.instagram.com/studio84pottery)); notecards and other prints by Charles Beneke ([@charles.beneke](https://www.instagram.com/charles.beneke)); and Sunbrella nautical pillows by Ann Grout ([@harpswell_designs](https://www.instagram.com/harpswell_designs))
+Studio84 will feature pottery by Annie Gatewood ([@studio84pottery](https://www.instagram.com/studio84pottery)); notecards and other prints by Charles Beneke ([@charles.beneke](https://www.instagram.com/charles.beneke)); paintings by Louise Ingalls Sturges ([@besosyfotos](https://www.instagram.com/besosyfotos/)); and Sunbrella nautical pillows by Ann Grout ([@harpswell_designs](https://www.instagram.com/harpswell_designs))
