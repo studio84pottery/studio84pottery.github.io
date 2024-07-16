@@ -16,15 +16,16 @@ image: /assets/images/IMG_4996_lg.png
 
 {{ site.description }}
 
-My work is for sale at Studio84 at 84 Bethel Point Road in Cundy’s Harbor, Harpswell and I am available for commissions.
+My work is for sale at Studio84 at [84 Bethel Point Road](https://maps.app.goo.gl/wPVBr13b7TnjB1KK8) in Cundy’s Harbor, Harpswell and I
+am available for commissions.
 
-Follow me on Instagram [@studio84pottery](https://www.instagram.com/studio84pottery)
+<div class="img-caption">
+  <img src="/assets/images/artist.jpg" alt="Annie Gatewood" width="100" />
+  <div class="caption">Annie Gatewood</div>
+</div>
+
+See my work on Instagram [@studio84pottery](https://www.instagram.com/studio84pottery).
 
 ### Harpswell Open Studio Tour
 
-<img src="/assets/images/artist.jpg" alt="Annie Gatewood" width="100" />
-
-Meet me and see my work during the Harpswell Open Studio Tour July 13-14th 10am-4pm.
-See [@harpswellopenstudiotour](https://www.instagram.com/harpswellopenstudiotour) for artist listing and map.
-
-Studio84 will feature pottery by Annie Gatewood ([@studio84pottery](https://www.instagram.com/studio84pottery)); notecards and other prints by Charles Beneke ([@charles.beneke](https://www.instagram.com/charles.beneke)); paintings by Louise Ingalls Sturges ([@besosyfotos](https://www.instagram.com/besosyfotos/)); and Sunbrella nautical pillows by Ann Grout ([@harpswell_designs](https://www.instagram.com/harpswell_designs))
+Follow [@harpswellopenstudiotour](https://www.instagram.com/harpswellopenstudiotour) for upcoming open-studio events where you can see my and other artists' work in person.

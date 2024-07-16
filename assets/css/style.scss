@@ -27,3 +27,12 @@ section#main {
   margin-top: 20px;
   padding-top: 0px;
 }
+
+.img-caption {
+  padding-bottom: .5em;
+
+  .caption {
+    font-style: italic;
+    color: #aaa;
+  }
+}
