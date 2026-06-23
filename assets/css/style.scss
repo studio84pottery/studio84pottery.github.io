@@ -5,7 +5,6 @@
 
 #topline {
   padding-bottom: 10px;
-
   img {
     width: 150px;
   }
@@ -37,7 +36,24 @@ section#main {
   }
 }
 
-// Slick overrides
 .slick-dots {
-  color: white;
+  bottom: -30px;;
+
+  li button:before,
+  li.slick-active button:before {
+    color: transparent;
+    opacity: 1;
+  }
+  li button:before{
+    background-color: transparent;
+    border: 2px solid #f0e7d5;
+    border-radius: 50%;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+
+  }
+  li.slick-active button:before {
+    background-color: #f0e7d5;
+  }
 }
