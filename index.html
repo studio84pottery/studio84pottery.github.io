@@ -20,14 +20,20 @@ alt_text: "Unique pottery from the coast of Maine"
 ---
 
 <div id="topline">
-  <div class="logo">
-    <a href="/">
-      <img src="/assets/images/studio84_pottery_logo_blue.png" alt="Studio84 Harpswell, Maine" />
-    </a>
-  </div>
-  <div class="title">
-    <h1>{{ site.title }}</h1>
-  </div>
+  <table>
+    <tbody>
+      <tr>
+        <td class="logo-cell">
+          <a href="/">
+            <img class="logo" src="/assets/images/studio84_pottery_logo_blue.png" alt="Studio84 Harpswell, Maine" />
+          </a>
+        </td>
+        <td class="title-cell">
+          <h1 class="title">{{ site.title }}</h1>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 <p>
@@ -40,7 +46,7 @@ alt_text: "Unique pottery from the coast of Maine"
   {% endfor %}
 </div>
 
-<p style="margin-top: 50px;">
+<p>
   My work is for sale in Cundy's Harbor, Harpswell, Maine at <a href="https://maps.app.goo.gl/wPVBr13b7TnjB1KK8">Studio84</a> and <a href="https://maps.app.goo.gl/JxF5cEnVE11EAjf38">The Holbrook Store</a>. I
   am also available for commissions.
 </p>
@@ -64,7 +70,6 @@ alt_text: "Unique pottery from the coast of Maine"
   $(document).ready(function(){
     $('.carousel').slick({
       arrows: false,
-      dots: true,
       infinite: true,
       speed: 300,
       autoplay: true,
